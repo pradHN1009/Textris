@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar title="Textris" aboutText="About"/>
-      <div className="container">
+      <div className="container my-3">
         <Textform heading = "Enter text to be analysed"/>
       </div>
       
