@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pradHN1009/Textris/static/css/main.abd64e84.css",
+    "main.js": "/pradHN1009/Textris/static/js/main.3c37884c.js",
+    "static/js/787.719ec76d.chunk.js": "/pradHN1009/Textris/static/js/787.719ec76d.chunk.js",
+    "index.html": "/pradHN1009/Textris/index.html",
+    "main.abd64e84.css.map": "/pradHN1009/Textris/static/css/main.abd64e84.css.map",
+    "main.3c37884c.js.map": "/pradHN1009/Textris/static/js/main.3c37884c.js.map",
+    "787.719ec76d.chunk.js.map": "/pradHN1009/Textris/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.3c37884c.js"
+  ]
+}
