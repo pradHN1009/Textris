@@ -101,7 +101,7 @@ export default function Textform(props) {
                 {finalWordLength.length * 0.0033} minutes to read this for an average reader
             </p>
             <h3>Preview</h3>
-            <p>{text.length>0?text:"Enter something in the textbox above to preview here"}</p>
+            <p>{text.length>0?text:"Nothing to preview"}</p>
         </div>
 
         </>
